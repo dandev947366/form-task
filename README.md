@@ -1,3 +1,3 @@
 # Form Task
-# Languages: Javascript, Jquery
-# Database: Local storage
+### Languages: Javascript, Jquery
+### Database: Local storage
